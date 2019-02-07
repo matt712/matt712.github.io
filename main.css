@@ -1,0 +1,30 @@
+
+body
+{
+    background-color: paleturquoise;
+}
+h1
+{
+    color: navy;
+    text-align: center;
+    font-family: 'Trebuchet MS' ;
+    font-size: 60px;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: left;
+    color: black;
+}
+h2
+{
+    color: navy;
+    text-align: left;
+}
+p2{
+    text-align: left;
+    color: red;
+}
+button{
+    align-content: center;
+}
